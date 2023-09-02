@@ -1,6 +1,8 @@
 # Student Management System
 
 This is a Student Management System designed to ease the process of managing students and courses. The application is built using Spring Boot for creating a RESTful API, JPA with Hibernate for data persistence, and integrates Swagger for API documentation
+# ER-Diagram
+![ERPNG](https://github.com/guptaroshni/StudentManagementSystem/assets/104244053/ae08353d-954e-4911-8127-5df8f8bfafac)
 
 
 
